@@ -40,9 +40,6 @@
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
 				},
 				{
-					"PackageIdentifier" : "Python.Launcher"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
@@ -61,7 +58,7 @@
 					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
 				},
 				{
-					"PackageIdentifier" : "Postman.Postman"
+					"PackageIdentifier" : "Hoppscotch.Hoppscotch"
 				},
 				{
 					"PackageIdentifier" : "LocalSend.LocalSend"
@@ -74,9 +71,6 @@
 				},
 				{
 					"PackageIdentifier" : "Canonical.Ubuntu"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.AppInstaller"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
